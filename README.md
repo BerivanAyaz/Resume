@@ -5,7 +5,7 @@ This repository hosts my professional resume, specifically structured to provide
 ---
 
 ## 📄 Professional Overview
-[cite_start]Results-oriented Software Engineer specializing in **Data Analysis** and **Full Stack Web Development**[cite: 4].
+Results-oriented Software Engineer specializing in **Data Analysis** and **Full Stack Web Development**.
 
 ## 🔗 Quick Access
 You can view or download my latest resume directly using the link below:
