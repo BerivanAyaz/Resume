@@ -10,6 +10,6 @@ Results-oriented Software Engineer specializing in **Data Analysis** and **Full 
 ## 🔗 Quick Access
 You can view or download my latest resume directly using the link below:
 
-👉 [**View Full Resume (PDF)**](https://berivanayaz.github.io/Resume/berivan-kula-resume.pdf)
+👉 [**View Full Resume (PDF)**](https://berivanayaz.github.io/Resume/berivan_kula_resume.pdf)
 
 ---
